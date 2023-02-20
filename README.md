@@ -1,2 +1,2 @@
 # calculator
-A Simple calculator web app
+A Simple calculator made with js
